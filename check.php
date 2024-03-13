@@ -1,5 +1,5 @@
 <?php
 
-echo "check";
+echo "check updates";
 
 ?>  
